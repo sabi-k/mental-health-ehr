@@ -56,6 +56,9 @@
         font-size: 40px;
         line-height: 50px;
     }
+   .frm_sect input{
+      width:100%;
+   }
     .tool_text h1 {
         font-size: 35px;
         line-height: 90%;
