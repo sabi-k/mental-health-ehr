@@ -1,0 +1,91 @@
+
+@media(min-width:1900px){
+
+
+
+
+}
+@media(max-width:1024px){
+   
+}
+@media(max-width:768px){
+    
+}
+@media(max-width:425px){
+    .heading1 h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .tool_text h1 {
+        font-size: 35px;
+        line-height: 90%;
+    }
+    .price h1 {
+        font-size: 35px;
+        line-height: 110%;
+    }
+    .carosel_heading h1 {
+        font-size: 35px;
+        line-height: 110%;
+    }
+
+    .name h5 {
+    font-size: 12px;
+    line-height: 110%;
+    }
+    .price_butt button{
+        margin-left: 0px;
+    }
+    .testimonial{
+        width: 300px;
+    }
+    .carosel_heading p {
+        font-size: 14px;
+        line-height: 150%;
+    }
+    .footer_logo p {
+        font-size: 10px;
+        line-height: 50%;
+    }
+    .footer_list{
+        width: 150px;
+    }
+}
+@media (max-width:320px) {
+    .heading1 h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .tool_text h1 {
+        font-size: 35px;
+        line-height: 90%;
+    }
+    .price h1 {
+        font-size: 35px;
+        line-height: 110%;
+    }
+    .carosel_heading h1 {
+        font-size: 35px;
+        line-height: 110%;
+    }
+
+    .name h5 {
+    font-size: 12px;
+    line-height: 110%;
+    }
+    .testimonial{
+        width: 300px;
+    }
+    .carosel_heading p {
+        font-size: 14px;
+        line-height: 150%;
+    }
+    .footer_logo p {
+        font-size: 10px;
+        line-height: 50%;
+    }
+    .footer_list{
+        width: 150px;
+    }
+}
+   
