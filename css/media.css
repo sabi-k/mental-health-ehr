@@ -88,6 +88,9 @@
     .testimonial{
         width: 300px;
     }
+   .carosel-sect{
+   margin-left:0px;
+}
     .carosel_heading p {
         font-size: 14px;
         line-height: 150%;
