@@ -91,7 +91,7 @@
     color: #4E566D;
 }
 .btn-outline-success{
-    border: none;
+    border: 1px solid #1490d8;
     padding: 12px 24px;
     gap:8px;
     background-color: #1490D8;
@@ -199,7 +199,7 @@
     margin-left: 8px;
 }
 .frm_sect button{
-    border: none;
+    border: 1px solid #1490d8;
     padding: 12px 24px;
     gap:8px;
     background-color: #1490D8;
